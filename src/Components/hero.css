@@ -1,0 +1,62 @@
+.hero {
+  height: 70vh;
+  width: 100%;
+  top: 90px;
+  object-fit: contain;
+  color: #f4eeff;
+}
+#video {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.hero .hero-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+  padding: 1rem;
+  text-align: center;
+}
+
+.hero p {
+  font-size: 1.4rem;
+}
+
+.hero .btn {
+  margin: 1rem;
+}
+.blue{
+  color: yellow;
+  border: black;
+  height: 100%;
+}
+.yellow{
+  color: yellow;
+}
+.bottom-text h2 {
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+
+
+
+.button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #100455;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+
